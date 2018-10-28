@@ -1,0 +1,1 @@
+Small example showing how to extend GraphAware NLP plugin
